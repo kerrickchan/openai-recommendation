@@ -1,0 +1,4 @@
+__pycache__
+.DS_Store
+recommendations_embeddings_cache.pkl
+.env
